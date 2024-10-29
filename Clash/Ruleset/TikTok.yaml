@@ -13,3 +13,17 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,tiktok
   - DOMAIN-KEYWORD,tiktokcdn
+  
+  # 可莉大神TK规则里面的，还没搬运完，现在她只开放Loon访问
+  - DOMAIN,api.snapkit.com
+  - DOMAIN,cocacola.co.jp
+  - DOMAIN,courses.snapsolve.com
+  - DOMAIN,engagements.appsflyer.com
+  - DOMAIN,If16-campaign.ttlstatic.com
+  - DOMAIN,lf16-csp.oecstatic.com
+  - DOMAIN,lf16-pkgcdn.pitaya-clientai.com
+  - DOMAIN,lf16-scmcdn.oecstatic.com
+  - DOMAIN,lf19-csp.oecstatic.com
+  - DOMAIN,If19-pkgcdn.pitaya-clientai.com
+  - DOMAIN,lf19-scmcdn.oecstatic.com
+  - DOMAIN,musically-alternate.app.link
